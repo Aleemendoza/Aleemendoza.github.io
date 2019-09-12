@@ -1,0 +1,2 @@
+[0817/165610.088:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {No hay cuota suficiente} No hay suficiente memoria virtual o cuota de archivos de paginación para completar la operación especificada. (0xc0000017)
+[0817/165610.090:ERROR:exception_snapshot_win.cc(98)] thread ID 16428 not found in process

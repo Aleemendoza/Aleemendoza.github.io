@@ -1,0 +1,32 @@
+.active{
+	
+	transform: rotate(90deg);
+	transition: 3s all;
+	animation: aparecer 7s forwards;
+}
+.opacidad {
+	animation: aparecer 7s forwards;
+
+}
+@keyframes aparecer{
+	0% {opacity: 0;}
+	100% {opacity: 1;}
+}
+.rotar2 {
+		
+	transform: rotate(-90deg);
+	transition: 3s all;
+	animation: aparecer 7s forwards;
+	}
+	@keyframes aparece2 { 
+
+        
+
+    }
+.visibilidad {
+
+    animation: aparecer 4s forwards;
+    
+
+}
+
