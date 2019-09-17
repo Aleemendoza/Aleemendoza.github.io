@@ -10,12 +10,6 @@ body {
 	
 	}
 
-.titulos {
-	font-size: 15px;
-	color: white;
-	font-family:sans-serif;
-	
-}
 
 #informacionPersonal, #contacto, #logros, 
 #lenguajes, #experienciaLaboral, 
@@ -259,3 +253,14 @@ body {
 
 }
 
+h1 {
+
+	opacity: 0;
+
+}
+#contenidoInformacionPersonal, #contenidoContacto,
+#contenidoEducacion, #contenidoLenguaje, #contenidoLogros, #contenidoSkills {
+
+	opacity: 0;
+
+}

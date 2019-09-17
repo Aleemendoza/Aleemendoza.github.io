@@ -15,5 +15,6 @@ function agregarClases(){
 lenguaje.addEventListener("click",mostrarTitulo);
     function mostrarTitulo(){
 
+        parrafoLenguaje.classList.add("visibilidad")
         
     }
