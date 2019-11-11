@@ -44,41 +44,52 @@ body {
 		opacity: 0;
 	}
 #informacionPersonal, #contacto, #hobbies, 
-#lenguajes, #experienciaLaboral, 
-#skills, #educacion{
+#lenguajes, #educacion, #experienciaLaboral, 
+#skills{
 
 	width: 200px;
 	height: 200px;
 	text-align: center;
 	position: absolute;
-	
+	color: white;
+	font-size: 18px;
+}
+h1 {
+
+	color: yellow;
+
 }
 #informacionPersonal{
 
-	left: 45%;
-	width: 500px;
+	left:5%;
+	width: 550px;
 	height: 200px;
-	
+	text-align: start;
 
 	}
 
 #contacto {
-
-	left: 25%;
+	top: 400px;
+	left: 70%;
 	text-align: left;
-	
+	position: absolute;
 }
 
 #educacion{
+	
+	left: 65%;
+	width: 350px;
+	height: 200px;
+}
+#contenidoEducacion {
 
-	top: 250px;
-	left: 70%;
+	text-align: initial;
 
 }
 
 #lenguajes {
 
-	top: 40%;
+	top: 15%;
 	left: 9%;
 		
 }
@@ -88,14 +99,14 @@ body {
 
 #skills{
 	
-	top: 600px;
-	left: 25%;
+	top: 390px;
+	left: 10%;
 }
-
-#hobbies {
-
-	top: 600px;
-	left: 65%;
+#contenidoSkills {
+	width: 250px;
+	height: 250px;
+	font-size: 20px ;
+	color: white;
 }
 
 #imagenPerfil {
