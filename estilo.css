@@ -60,7 +60,7 @@ h1 {
 
 }
 #informacionPersonal{
-
+	top: 1%;
 	left:5%;
 	width: 550px;
 	height: 200px;
@@ -99,13 +99,13 @@ h1 {
 
 #skills{
 	
-	top: 390px;
+	top: 400px;
 	left: 10%;
 }
 #contenidoSkills {
 	width: 250px;
 	height: 250px;
-	font-size: 20px ;
+	font-size: 23px ;
 	color: white;
 }
 
